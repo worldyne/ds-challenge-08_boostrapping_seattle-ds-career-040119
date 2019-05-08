@@ -7,6 +7,7 @@ With your pair partner, use bootstrapping to estimate a confidence interval for 
 * Fork this repo.
 * Create a new notebook documenting the process.
 * Replace this README file with one that documents your work and includes a link to your notebook.
+* Add, commit, and push your changes.
 * Share a link to your fork in #seattle-ds-040119-git
 
 ## Resources
