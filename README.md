@@ -1,14 +1,7 @@
 # Bootstrapping Challenge
 
-## Instructions
-
-With your pair partner, use bootstrapping to estimate a confidence interval for a statistic that's of interest to you in your Mod 2 project.
-
-* Fork this repo.
-* Create a new notebook documenting the process.
-* Replace this README file with one that documents your work and includes a link to your notebook.
-* Add, commit, and push your changes.
-* Share a link to your fork in #seattle-ds-040119-git
+## Process
+Imported data from postgres database. Sampled the data column 'score' with replacement 1000 times with a sample size of 1000. Then we generated a confidence interval using the percentile method from numpy as a two-tailed test. 
 
 ## Resources
 
