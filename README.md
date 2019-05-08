@@ -5,4 +5,4 @@ Imported data from postgres database. Sampled the data column 'score' with repla
 
 ## Resources
 
-* [Bootstrapping Demo Notebook](bootstrap-demo.ipynb)
+* [Bootstrapping Challenge Notebook](https://github.com/worldyne/ds-challenge-08_boostrapping_seattle-ds-career-040119/blob/master/Bootstrapping_challenge.ipynb)
