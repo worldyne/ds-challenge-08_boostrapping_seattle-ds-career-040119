@@ -1,4 +1,4 @@
-# Boostrapping Challenge
+# Bootstrapping Challenge
 
 ## Instructions
 
